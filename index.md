@@ -109,7 +109,7 @@ Here’s the through-line:
 
 ### **Collision Point (Why This Matters)**
 
-* Ukubona is already saying the same thing Nvidia now illustrates at planetary scale:
+* [Ukubona](https://ukubona-llc.github.io/assets/html/pitch.html) is already saying the same thing Nvidia now illustrates at planetary scale:
 
   > *“Clarity costs energy and money; we make those trade-offs visible and investable.”*
 * Your digital twin isn’t just a gimmick: it’s the **bridge between decision-makers and their hidden energy costs.**
